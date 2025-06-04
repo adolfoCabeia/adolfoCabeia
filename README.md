@@ -31,7 +31,7 @@
 
 ---
 
-## 🌱 Tecnologias que estou estudando e utilizar
+## 🌱 Tecnologias que estou estudando e pretendo utilizar
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
