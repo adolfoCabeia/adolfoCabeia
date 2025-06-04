@@ -5,10 +5,10 @@
 📚 Entusiasta de projetos educacionais e tecnologias open-source.  
 
 [![Profile Visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?label=AdolfoCabeia)](https://github.com/ACC609/ACC609)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/adolfo-cabeia-b989b6305/))
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
@@ -54,7 +54,7 @@
 
 🔗 **Portfólio em breve...**
 
-📫 **Entre em contato:** cabeiaadolfo6@gmail.com.com *(ou substitua por seu real)*
+📫 **Entre em contato:** cabeiaadolfo6@gmail.com
 
 ---
 
