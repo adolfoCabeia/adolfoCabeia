@@ -10,9 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/adolfo-cabeia-b989b6305/))
 
 
----
-
-![Adolfo GitHub Stats](https://github-readme-stats.vercel.app/api?username=acc609&show_icons=true&theme=dracula&title_color=ff5555&icon_color=50fa7b&text_color=f8f8f2&bg_color=282a36)
 
 ---
 
