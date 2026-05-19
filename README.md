@@ -32,8 +32,8 @@ Git • GitHub • Vercel • Render
 
 ## Projetos
 
-### API de Gestão Hospitalar
-Backend completo com autenticação, gestão de pacientes, médicos e consultas.
+### API de Gestão de um Centro de Formação
+Sistema interno completo para gestão de turmas de treinamento, acompanhamento do progresso dos alunos e colocação no mercado de trabalho. Interface SPA (Single Page Application) + API REST com dados reais do programa de treinamento da Zenith.
 
 Documentação da API:
 https://api-zenith-formacao.onrender.com/api-docs/
